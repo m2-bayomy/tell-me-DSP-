@@ -1,0 +1,890 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali, Sara, Lina, Omar, and Nour stayed late at school to finish their science project. The hallway was quiet, and the lights outside the classroom flickered. Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "Okay, team, we only need five more minutes.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 2,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 3,
+        "type": "dialogue",
+        "text": "Five minutes always becomes twenty minutes.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 4,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 5,
+        "type": "dialogue",
+        "text": "Relax, Sara. We are almost done.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 6,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 7,
+        "type": "dialogue",
+        "text": "I keep hearing little sounds in the hallway.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 8,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 9,
+        "type": "dialogue",
+        "text": "It is probably the wind, Lina.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 10,
+        "type": "dialogue",
+        "text": "I am not joking,",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 11,
+        "type": "narration",
+        "text": "Lina said.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 12,
+        "type": "dialogue",
+        "text": "That sound is coming closer.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 13,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 14,
+        "type": "dialogue",
+        "text": "Let me check the door.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 15,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 16,
+        "type": "dialogue",
+        "text": "The door handle feels cold.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 17,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 18,
+        "type": "dialogue",
+        "text": "Stop trying to scare us, Ali.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 19,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 20,
+        "type": "dialogue",
+        "text": "I am not trying to scare anyone.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 21,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 22,
+        "type": "dialogue",
+        "text": "Just open it and look outside.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 23,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 24,
+        "type": "dialogue",
+        "text": "I cannot. The door is locked.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 25,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 26,
+        "type": "dialogue",
+        "text": "Locked? That makes no sense.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 27,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 28,
+        "type": "dialogue",
+        "text": "Maybe the cleaner locked it by accident.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 29,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 30,
+        "type": "dialogue",
+        "text": "Then why are the lights flickering?",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 31,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 32,
+        "type": "dialogue",
+        "text": "Okay, now I feel a little nervous.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 33,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 34,
+        "type": "dialogue",
+        "text": "Do not say that. You are making Lina panic.",
+        "speaker": "Lina",
+        "emotion": "fear",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 35,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 36,
+        "type": "dialogue",
+        "text": "I am not panicking. I am just being careful.",
+        "speaker": "Nour",
+        "emotion": "fear",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 37,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 38,
+        "type": "dialogue",
+        "text": "Everyone breathe. We can solve this.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 39,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 40,
+        "type": "dialogue",
+        "text": "We should call someone.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 41,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 42,
+        "type": "dialogue",
+        "text": "My phone has no signal in here.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 43,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 44,
+        "type": "dialogue",
+        "text": "Mine has one bar, but it keeps dropping.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 45,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 46,
+        "type": "dialogue",
+        "text": "Try again, Omar.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 47,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 48,
+        "type": "dialogue",
+        "text": "It is not working. It says call failed.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 49,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 50,
+        "type": "dialogue",
+        "text": "Listen. The sound is right outside the door.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 51,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 52,
+        "type": "dialogue",
+        "text": "Everyone stay quiet for a second.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 53,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 54,
+        "type": "dialogue",
+        "text": "I hate this.",
+        "speaker": "Omar",
+        "emotion": "anger",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 55,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 56,
+        "type": "dialogue",
+        "text": "I think I heard footsteps.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 57,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 58,
+        "type": "dialogue",
+        "text": "Ali, talk to whoever is outside.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 59,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 60,
+        "type": "dialogue",
+        "text": "Hello? Who is there?",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 61,
+        "type": "narration",
+        "text": "A voice whispered,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 62,
+        "type": "dialogue",
+        "text": "Open the door,",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 63,
+        "type": "narration",
+        "text": "Nour said softly. Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 64,
+        "type": "dialogue",
+        "text": "Nour, why would you say that?",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 65,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 66,
+        "type": "dialogue",
+        "text": "I did not say that.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 67,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 68,
+        "type": "dialogue",
+        "text": "I knew it. Someone is copying us.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 69,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 70,
+        "type": "dialogue",
+        "text": "This is not funny anymore.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 71,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 72,
+        "type": "dialogue",
+        "text": "If this is a prank, stop now!",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 73,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 74,
+        "type": "dialogue",
+        "text": "Ali, do not shout. That makes it worse.",
+        "speaker": "Nour",
+        "emotion": "anger",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 75,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 76,
+        "type": "dialogue",
+        "text": "We need a plan, and we need it now.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 77,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 78,
+        "type": "dialogue",
+        "text": "The window is open a little. We can climb out.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 79,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 80,
+        "type": "dialogue",
+        "text": "I do not want to climb out. It is high.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 81,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 82,
+        "type": "dialogue",
+        "text": "I will go first. Watch me.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 83,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 84,
+        "type": "dialogue",
+        "text": "Okay, I am outside.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 85,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 86,
+        "type": "dialogue",
+        "text": "Good. Now help the others.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 87,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 88,
+        "type": "dialogue",
+        "text": "I am going next.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 89,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 90,
+        "type": "dialogue",
+        "text": "I made it.",
+        "speaker": "Lina",
+        "emotion": "anger",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 91,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 92,
+        "type": "dialogue",
+        "text": "I am still scared.",
+        "speaker": "Nour",
+        "emotion": "fear",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 93,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 94,
+        "type": "dialogue",
+        "text": "Hold my hand, Lina. We will do it together.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 95,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 96,
+        "type": "dialogue",
+        "text": "Okay. Do not let go.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 97,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 98,
+        "type": "dialogue",
+        "text": "I am coming last.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 99,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 100,
+        "type": "dialogue",
+        "text": "Now run to the main building.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 101,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 102,
+        "type": "dialogue",
+        "text": "Wait. Look at the door.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 103,
+        "type": "narration",
+        "text": "Omar said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 104,
+        "type": "dialogue",
+        "text": "The door is not locked anymore.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "Xb7hH8MSUJpSbSDYk0k2"
+    },
+    {
+        "idx": 105,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 106,
+        "type": "dialogue",
+        "text": "Then maybe it never was.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 107,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 108,
+        "type": "dialogue",
+        "text": "I do not care. I am just happy we are safe.",
+        "speaker": "Ali",
+        "emotion": "joy",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 109,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 110,
+        "type": "dialogue",
+        "text": "Next time, we finish the project earlier.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    }
+]

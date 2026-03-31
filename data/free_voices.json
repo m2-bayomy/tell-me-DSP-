@@ -1,0 +1,25 @@
+{
+  "voices": [
+    {"name": "Roger", "id": "CwhRBWXzGAHq8TQ4Fs17", "gender": "male"},
+    {"name": "Sarah", "id": "EXAVITQu4vr4xnSDxMaL", "gender": "female"},
+    {"name": "Laura", "id": "FGY2WhTYpPnrIDTdsKH5", "gender": "female"},
+    {"name": "Charlie", "id": "IKne3meq5aSn9XLyUdCD", "gender": "male"},
+    {"name": "George", "id": "JBFqnCBsd6RMkjVDRZzb", "gender": "male"},
+    {"name": "Callum", "id": "N2lVS1w4EtoT3dr4eOWO", "gender": "male"},
+    {"name": "River", "id": "SAz9YHcvj6GT2YYXdXww", "gender": "neutral"},
+    {"name": "Harry", "id": "SOYHLrjzK2X1ezoPC6cr", "gender": "male"},
+    {"name": "Liam", "id": "TX3LPaxmHKxFdv7VOQHJ", "gender": "male"},
+    {"name": "Alice", "id": "Xb7hH8MSUJpSbSDYk0k2", "gender": "female"},
+    {"name": "Will", "id": "bIHbv24MWmeRgasZH58o", "gender": "male"},
+    {"name": "Jessica", "id": "cgSgspJ2msm6clMCkdW9", "gender": "female"},
+    {"name": "Eric", "id": "cjVigY5qzO86Huf0OWal", "gender": "male"},
+    {"name": "Bella", "id": "hpp4J3VqNfWAUOO0d1Us", "gender": "female"},
+    {"name": "Chris", "id": "iP95p4xoKVk53GoZ742B", "gender": "male"},
+    {"name": "Brian", "id": "nPczCjzI2devNBz1zQrb", "gender": "male"},
+    {"name": "Daniel", "id": "onwK4e9ZLuTAKqWW03F9", "gender": "male"},
+    {"name": "Lily", "id": "pFZP5JQG7iQjIQuC4Bku", "gender": "female"},
+    {"name": "Adam", "id": "pNInz6obpgDQGcFmaJgB", "gender": "male"},
+    {"name": "Bill", "id": "pqHfZKP75CvOlQylNhV4", "gender": "male"},
+    {"name": "Jackson", "id": "ZthjuvLPty3kTMaNKVKb", "gender": "male"}
+  ]
+}

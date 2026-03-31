@@ -1,0 +1,218 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali, Sara, Omar, and Lina walked quietly through the dark forest. The wind moved the trees above them, and the sky was slowly turning orange.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "I don't like this place,",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 2,
+        "type": "narration",
+        "text": "Lina whispered.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 3,
+        "type": "dialogue",
+        "text": "Don't be scared,",
+        "speaker": "Ali",
+        "emotion": "fear",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 4,
+        "type": "narration",
+        "text": "Ali said bravely.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 5,
+        "type": "dialogue",
+        "text": "We just need to find the old lantern near the river.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 6,
+        "type": "narration",
+        "text": "Sara looked around nervously.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 7,
+        "type": "dialogue",
+        "text": "What if the stories are true?",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 8,
+        "type": "narration",
+        "text": "she asked. Omar laughed.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 9,
+        "type": "dialogue",
+        "text": "You mean the ghost story? That's just something villagers say to frighten children.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 10,
+        "type": "narration",
+        "text": "Suddenly, a strange sound echoed between the trees.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 11,
+        "type": "dialogue",
+        "text": "Did you hear that?",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 12,
+        "type": "narration",
+        "text": "Lina asked. Ali stopped walking.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 13,
+        "type": "dialogue",
+        "text": "It was probably just an animal.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 14,
+        "type": "narration",
+        "text": "Sara grabbed Omar’s arm.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 15,
+        "type": "dialogue",
+        "text": "No, that sounded different.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 16,
+        "type": "narration",
+        "text": "The bushes shook loudly.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 17,
+        "type": "dialogue",
+        "text": "Okay, now I’m starting to feel scared,",
+        "speaker": "Omar",
+        "emotion": "fear",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 18,
+        "type": "narration",
+        "text": "Omar muttered. From behind a tree, a small glowing lantern lit up.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 19,
+        "type": "dialogue",
+        "text": "Look!",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 20,
+        "type": "narration",
+        "text": "Lina shouted. Ali stepped closer.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 21,
+        "type": "dialogue",
+        "text": "It's not a ghost. It's just an old lantern hanging from a branch.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 22,
+        "type": "narration",
+        "text": "Sara smiled with relief.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 23,
+        "type": "dialogue",
+        "text": "So the story was wrong.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 24,
+        "type": "narration",
+        "text": "Omar laughed again.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 25,
+        "type": "dialogue",
+        "text": "Or maybe we were just brave enough to face it.",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pNInz6obpgDQGcFmaJgB"
+    },
+    {
+        "idx": 26,
+        "type": "narration",
+        "text": "The four friends stood together, watching the lantern glow warmly as the forest slowly became peaceful again.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    }
+]

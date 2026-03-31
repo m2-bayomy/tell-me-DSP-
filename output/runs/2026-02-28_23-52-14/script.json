@@ -1,0 +1,266 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali, Sara, Omar, and Lina walked slowly through the quiet forest. The trees were tall, and the air felt cold around them.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "I feel nervous about this forest,",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 2,
+        "type": "narration",
+        "text": "Lina said. Ali looked ahead and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 3,
+        "type": "dialogue",
+        "text": "There is nothing to worry about. We will be fine.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 4,
+        "type": "narration",
+        "text": "Sara stopped walking and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 5,
+        "type": "dialogue",
+        "text": "I heard stories about this place.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 6,
+        "type": "narration",
+        "text": "Omar smiled and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 7,
+        "type": "dialogue",
+        "text": "Those stories are just made up.",
+        "speaker": "Omar",
+        "emotion": "anger",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 8,
+        "type": "narration",
+        "text": "A sudden noise came from behind a tree. Lina turned around and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 9,
+        "type": "dialogue",
+        "text": "Did you hear that sound?",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 10,
+        "type": "narration",
+        "text": "Ali raised his hand and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 11,
+        "type": "dialogue",
+        "text": "Everyone stay calm.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 12,
+        "type": "narration",
+        "text": "Sara stepped closer to Omar and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 13,
+        "type": "dialogue",
+        "text": "That did not sound like the wind.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 14,
+        "type": "narration",
+        "text": "Omar swallowed and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 15,
+        "type": "dialogue",
+        "text": "Maybe it was just a small animal.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 16,
+        "type": "narration",
+        "text": "The bushes moved again.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 17,
+        "type": "dialogue",
+        "text": "I think something is there,",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 18,
+        "type": "narration",
+        "text": "Lina said quietly. Ali took a deep breath and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 19,
+        "type": "dialogue",
+        "text": "We should check it together.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 20,
+        "type": "narration",
+        "text": "Sara nodded and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 21,
+        "type": "dialogue",
+        "text": "Yes, we should not be afraid.",
+        "speaker": "Sara",
+        "emotion": "fear",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 22,
+        "type": "narration",
+        "text": "Omar walked forward and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 23,
+        "type": "dialogue",
+        "text": "I will go first.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 24,
+        "type": "narration",
+        "text": "From behind the bushes, a small glowing lantern appeared. Lina gasped and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 25,
+        "type": "dialogue",
+        "text": "Look at that light!",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 26,
+        "type": "narration",
+        "text": "Ali smiled and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 27,
+        "type": "dialogue",
+        "text": "It is just an old lantern.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 28,
+        "type": "narration",
+        "text": "Sara laughed and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 29,
+        "type": "dialogue",
+        "text": "So there was no ghost after all.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 30,
+        "type": "narration",
+        "text": "Omar relaxed and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 31,
+        "type": "dialogue",
+        "text": "We were scared for nothing.",
+        "speaker": "Omar",
+        "emotion": "fear",
+        "voice_id": "bIHbv24MWmeRgasZH58o"
+    },
+    {
+        "idx": 32,
+        "type": "narration",
+        "text": "The four friends stood together and watched the lantern glow softly beside the river.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali shouted,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "Stop!",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 2,
+        "type": "dialogue",
+        "text": "Why are you angry?",
+        "speaker": "Sara",
+        "emotion": "anger",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 3,
+        "type": "narration",
+        "text": "Sara asked.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 4,
+        "type": "dialogue",
+        "text": "Because you stole my toy!",
+        "speaker": "Sara",
+        "emotion": "anger",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 5,
+        "type": "dialogue",
+        "text": "I'm sorry,",
+        "speaker": "Sara",
+        "emotion": "sadness",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 6,
+        "type": "narration",
+        "text": "Sara said.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    }
+]

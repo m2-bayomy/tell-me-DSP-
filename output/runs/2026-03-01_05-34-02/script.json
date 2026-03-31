@@ -1,0 +1,274 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali, Sara, Lina, and Nour waited behind the library door while thunder shook the windows.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "I told you we should not come here at night,",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 2,
+        "type": "narration",
+        "text": "Lina whispered nervously. Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 3,
+        "type": "dialogue",
+        "text": "We came for the lost notebook, and we will find it.",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 4,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 5,
+        "type": "dialogue",
+        "text": "Stop acting brave, Ali. My hands are shaking.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+        "idx": 6,
+        "type": "narration",
+        "text": "Nour said softly,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 7,
+        "type": "dialogue",
+        "text": "Everyone breathe. We can do this together.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+        "idx": 8,
+        "type": "narration",
+        "text": "A loud crash came from inside the library.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 9,
+        "type": "dialogue",
+        "text": "What was that?",
+        "speaker": "Lina",
+        "emotion": "anger",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 10,
+        "type": "narration",
+        "text": "Lina asked in fear. Ali shouted,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 11,
+        "type": "dialogue",
+        "text": "Stay close to me!",
+        "speaker": "Sara",
+        "emotion": "anger",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 12,
+        "type": "narration",
+        "text": "Sara said angrily,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 13,
+        "type": "dialogue",
+        "text": "Do not shout at us like that!",
+        "speaker": "Nour",
+        "emotion": "anger",
+        "voice_id": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+        "idx": 14,
+        "type": "narration",
+        "text": "Nour said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 15,
+        "type": "dialogue",
+        "text": "Sara is right. Shouting will not help.",
+        "speaker": "Ali",
+        "emotion": "anger",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 16,
+        "type": "narration",
+        "text": "Ali said quietly,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 17,
+        "type": "dialogue",
+        "text": "I am sorry. I just panicked.",
+        "speaker": "Lina",
+        "emotion": "sadness",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 18,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 19,
+        "type": "dialogue",
+        "text": "I hate feeling scared. I hate it.",
+        "speaker": "Sara",
+        "emotion": "anger",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 20,
+        "type": "narration",
+        "text": "Sara said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 21,
+        "type": "dialogue",
+        "text": "Look, the notebook is on the table.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+        "idx": 22,
+        "type": "narration",
+        "text": "Nour said happily,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 23,
+        "type": "dialogue",
+        "text": "Yes! We found it!",
+        "speaker": "Ali",
+        "emotion": "joy",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 24,
+        "type": "narration",
+        "text": "Ali said with relief,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 25,
+        "type": "dialogue",
+        "text": "Good. Now we leave before anything else happens.",
+        "speaker": "Lina",
+        "emotion": "joy",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 26,
+        "type": "narration",
+        "text": "Lina said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 27,
+        "type": "dialogue",
+        "text": "Wait... did you hear that again?",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 28,
+        "type": "narration",
+        "text": "Sara whispered,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 29,
+        "type": "dialogue",
+        "text": "Do not move.",
+        "speaker": "Nour",
+        "emotion": "neutral",
+        "voice_id": "FGY2WhTYpPnrIDTdsKH5"
+    },
+    {
+        "idx": 30,
+        "type": "narration",
+        "text": "Nour said calmly,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 31,
+        "type": "dialogue",
+        "text": "It is only the wind. We are safe.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 32,
+        "type": "narration",
+        "text": "Ali said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 33,
+        "type": "dialogue",
+        "text": "Okay. We are safe. Let's go.",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    }
+]

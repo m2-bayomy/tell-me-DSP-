@@ -1,0 +1,146 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali, Sara, Omar, and Lina were walking home after school when the sky suddenly grew dark. The wind moved through the trees, and the street became unusually quiet. Ali stopped and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "Did you hear that?",
+        "speaker": "Ali",
+        "emotion": "neutral",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 2,
+        "type": "dialogue",
+        "text": "I heard something behind us,",
+        "speaker": "Lina",
+        "emotion": "fear",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 3,
+        "type": "narration",
+        "text": "Lina whispered. Sara looked around nervously and asked,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 4,
+        "type": "dialogue",
+        "text": "Do you think someone is there?",
+        "speaker": "Sara",
+        "emotion": "fear",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 5,
+        "type": "narration",
+        "text": "Omar laughed and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 6,
+        "type": "dialogue",
+        "text": "It is probably just a cat hiding in the bushes.",
+        "speaker": "Omar",
+        "emotion": "neutral",
+        "voice_id": "onwK4e9ZLuTAKqWW03F9"
+    },
+    {
+        "idx": 7,
+        "type": "narration",
+        "text": "A loud crash came from the alley beside them. Lina stepped back and cried,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 8,
+        "type": "dialogue",
+        "text": "That was not a cat!",
+        "speaker": "Lina",
+        "emotion": "neutral",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 9,
+        "type": "narration",
+        "text": "Ali took a deep breath and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 10,
+        "type": "dialogue",
+        "text": "Stay close. We should check together.",
+        "speaker": "Ali",
+        "emotion": "joy",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 11,
+        "type": "narration",
+        "text": "They moved slowly toward the alley. A small box had fallen from a wall, and inside it was a frightened kitten shaking in the cold. Sara smiled with relief and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 12,
+        "type": "dialogue",
+        "text": "Oh no, it was just this little kitten.",
+        "speaker": "Sara",
+        "emotion": "joy",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 13,
+        "type": "narration",
+        "text": "Omar picked it up gently and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 14,
+        "type": "dialogue",
+        "text": "I think we scared it more than it scared us.",
+        "speaker": "Omar",
+        "emotion": "fear",
+        "voice_id": "onwK4e9ZLuTAKqWW03F9"
+    },
+    {
+        "idx": 15,
+        "type": "narration",
+        "text": "Lina laughed softly and said,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 16,
+        "type": "dialogue",
+        "text": "I was terrified for nothing.",
+        "speaker": "Lina",
+        "emotion": "fear",
+        "voice_id": "pFZP5JQG7iQjIQuC4Bku"
+    },
+    {
+        "idx": 17,
+        "type": "narration",
+        "text": "The four friends looked at one another and began to laugh as they carried the kitten home.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "idx": 0,
+        "type": "narration",
+        "text": "Ali looked at Sara and shouted,",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 1,
+        "type": "dialogue",
+        "text": "You stole my toy!",
+        "speaker": "Ali",
+        "emotion": "anger",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 2,
+        "type": "dialogue",
+        "text": "I'm sorry, Ali,",
+        "speaker": "Sara",
+        "emotion": "sadness",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 3,
+        "type": "narration",
+        "text": "Sara said sadly.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 4,
+        "type": "dialogue",
+        "text": "i will bring you new one",
+        "speaker": "Sara",
+        "emotion": "neutral",
+        "voice_id": "cgSgspJ2msm6clMCkdW9"
+    },
+    {
+        "idx": 5,
+        "type": "narration",
+        "text": ".",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    },
+    {
+        "idx": 6,
+        "type": "dialogue",
+        "text": "thank you, i would love to have a new one",
+        "speaker": "Ali",
+        "emotion": "joy",
+        "voice_id": "CwhRBWXzGAHq8TQ4Fs17"
+    },
+    {
+        "idx": 7,
+        "type": "narration",
+        "text": "Ali said happily The room fell silent.",
+        "speaker": null,
+        "emotion": null,
+        "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+    }
+]
